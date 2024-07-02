@@ -19,12 +19,7 @@ https://reactjs-ecommerce-app.vercel.app/
 
 
 
-## Run Locally
 
-Clone the project
-
-```bash
-  git clone https://github.com/ssahibsingh/React_E-Commerce
 ```
 
 Go to the project directory
